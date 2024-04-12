@@ -1,0 +1,387 @@
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:782) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:782) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.46.21:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+Terminated
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:832) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:832) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.46.21:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+
+> react-login@0.1.0 start
+> react-scripts start
+
+
+> react-login@0.1.0 start
+> react-scripts start
+
+
+> react-login@0.1.0 start
+> react-scripts start
+
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:80) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:80) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+(node:111) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:111) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.46.21:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+(node:157) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:157) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Starting the development server...
+
+(node:203) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:203) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 1 warning
+Compiled with warnings.
+
+src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 1 warning
+Compiled with warnings.
+
+src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 1 warning
+
+> react-login@0.1.0 start
+> react-scripts start
+
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:110) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:110) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:141) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:141) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Starting the development server...
+
+Compiled with warnings.
+
+src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 1 warning
+Compiled with warnings.
+
+src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 1 warning
+
+> react-login@0.1.0 start
+> react-scripts start
+
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:230) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:230) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:261) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:261) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3007
+  On Your Network:  http://172.23.43.94:3007
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+Compiled with warnings.
+
+src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in src/components/WritePost/index.js
+  Line 8:9:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src/pages/Home/index.js
+  Line 53:24:  Expected '===' and instead saw '=='  eqeqeq
+  Line 61:32:  Expected '===' and instead saw '=='  eqeqeq
+  Line 75:34:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 1 warning
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:340) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:340) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.43.94:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:382) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:382) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.43.94:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:439) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:439) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.43.94:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:479) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:479) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.43.94:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:526) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:526) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.43.94:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+
+> react-login@0.1.0 start
+> react-scripts start
+
+(node:566) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:566) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-login in the browser.
+
+  Local:            http://localhost:3006
+  On Your Network:  http://172.23.43.94:3006
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
